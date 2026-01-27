@@ -29,4 +29,33 @@ The objective of this project was to gain hands-on experience in **professional 
 - Schematic capture with proper power and signal labeling  
 - Optimized component placement for routing efficiency  
 - Manual routing with focus on signal integrity and clean layout  
-- Ground plane implementation and basic power routing  
+- Ground plane implementation and basic power routing
+
+---
+
+## ✅ Key Learnings
+- Schematic-to-PCB workflow  
+- Component footprint selection  
+- Routing strategies for 2-layer PCBs  
+- Design rule checking and error resolution  
+- Understanding real-world PCB design constraints  
+
+---
+
+## 🚀 Future Improvements
+- Convert the design into a fully fabricated PCB  
+- Improve layout optimization and footprint compactness  
+- Add silkscreen annotations and test points  
+- Extend the design with additional peripherals  
+
+---
+
+## 📷 Project Demonstration
+Images of the PCB layout and design activity are available on LinkedIn:  
+🔗 https://www.linkedin.com/posts/aatish-m-m_sns-pcb-pcbdesign-activity-7308909959927189504-1qIV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECgmqcBH4a9NabRUIRfikmpIGMNEBMfheU
+
+---
+
+## 📄 License
+This project is intended for **learning and educational purposes**.
+
