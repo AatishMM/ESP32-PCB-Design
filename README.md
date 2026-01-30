@@ -33,7 +33,23 @@ This repository contains the design files and documentation for a **PCB design p
 - Convert the design into a fully fabricated PCB  
 - Improve layout optimization and footprint compactness  
 - Add silkscreen annotations and test points  
-- Extend the design with additional peripherals  
+- Extend the design with additional peripherals
+
+## 📷 Project Preview
+
+### Schematic
+![Schematic](ESP32_Schematics.jpg)
+
+### Layer Stackup
+![Stackup](ESP32_Layer_Stack_Manager.jpg)
+
+### 2D PCB Layout
+![2D PCB](ESP32_2D_PCB_Layout.jpg)
+![2D PCB](ATMEGA2560_2D_PCB_Bottom.png)
+
+### 3D PCB Layout
+![3D PCB](ESP32_3D_PCB_Layout_Top_Layer.jpg)
+![3D PCB](ESP32_3D_PCB_Layout_Bottom_Layer.jpg)
 
 ## 📄 License
 This project is intended for **learning and educational purposes**.
