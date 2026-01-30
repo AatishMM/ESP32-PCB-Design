@@ -45,7 +45,6 @@ This repository contains the design files and documentation for a **PCB design p
 
 ### 2D PCB Layout
 ![2D PCB](ESP32_2D_PCB_Layout.jpg)
-![2D PCB](ATMEGA2560_2D_PCB_Bottom.png)
 
 ### 3D PCB Layout
 ![3D PCB](ESP32_3D_PCB_Layout_Top_Layer.jpg)
